@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-12T18:13:55Z",
+ "generated": "2026-09-12T19:27:39Z",
  "folder": "halloween",
  "thumb_dir": ".thumbs",
  "thumb_width": 480,
@@ -12,8 +12,8 @@
    "d": 1789145691,
    "w": 2000,
    "ht": 1500,
-   "e": 0,
-   "t": ".thumbs/jack-o-lantern-buckets-store-shelf.jpg.webp"
+   "t": ".thumbs/jack-o-lantern-buckets-store-shelf.jpg.webp",
+   "e": 0
   },
   {
    "n": "jack-o-lantern-trick-or-treat-bucket.jpg",
@@ -22,8 +22,8 @@
    "d": 1789145532,
    "w": 2000,
    "ht": 1500,
-   "e": 0,
-   "t": ".thumbs/jack-o-lantern-trick-or-treat-bucket.jpg.webp"
+   "t": ".thumbs/jack-o-lantern-trick-or-treat-bucket.jpg.webp",
+   "e": 0
   },
   {
    "n": "reeses-peanut-butter-pumpkins-candy.jpg",
@@ -32,8 +32,8 @@
    "d": 1789145691,
    "w": 2000,
    "ht": 1500,
-   "e": 0,
-   "t": ".thumbs/reeses-peanut-butter-pumpkins-candy.jpg.webp"
+   "t": ".thumbs/reeses-peanut-butter-pumpkins-candy.jpg.webp",
+   "e": 0
   }
  ]
 }

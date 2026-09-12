@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-12T18:13:55Z",
+ "generated": "2026-09-12T19:27:39Z",
  "folder": "coupons",
  "thumb_dir": ".thumbs",
  "thumb_width": 480,
@@ -7,9 +7,9 @@
  "items": [
   {
    "n": "cvs-vaccination-5-off-20-coupon-2026.jpg",
-   "s": 430492,
-   "h1": "3b68c530397ca43156a60b0cac59b71ac6b3021d",
-   "d": 1789142622,
+   "s": 523995,
+   "h1": "aa99034d3a39e1e62798907939f94871eaf7d492",
+   "d": 1789241234,
    "w": 2000,
    "ht": 1500,
    "e": 0,
@@ -22,8 +22,8 @@
    "d": 1789145532,
    "w": 2000,
    "ht": 1500,
-   "e": 0,
-   "t": ".thumbs/cvs-vaccination-5-off-20-coupon-pair.jpg.webp"
+   "t": ".thumbs/cvs-vaccination-5-off-20-coupon-pair.jpg.webp",
+   "e": 0
   },
   {
    "n": "cvs-vaccination-5-off-20-coupon-single.jpg",
@@ -32,8 +32,8 @@
    "d": 1789145532,
    "w": 2000,
    "ht": 1500,
-   "e": 0,
-   "t": ".thumbs/cvs-vaccination-5-off-20-coupon-single.jpg.webp"
+   "t": ".thumbs/cvs-vaccination-5-off-20-coupon-single.jpg.webp",
+   "e": 0
   }
  ]
 }
