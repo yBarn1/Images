@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-13T18:29:38Z",
+ "generated": "2026-09-13T18:34:54Z",
  "folder": "street-signs",
  "thumb_dir": ".thumbs",
  "thumb_width": 480,
@@ -7,13 +7,13 @@
  "items": [
   {
    "n": "buggy-whip-sandstone-yield-sign.jpg",
-   "s": 472195,
-   "h1": "f357b0c42a0a674db1cfda217c43a9e19bb7ae6c",
-   "d": 1789278092,
+   "s": 516065,
+   "h1": "3eea69ab9c934643ee2e1af08e92d51138636e6e",
+   "d": 1789324481,
    "w": 2560,
    "ht": 1920,
-   "t": ".thumbs/buggy-whip-sandstone-yield-sign.jpg.webp",
-   "e": 0
+   "e": 0,
+   "t": ".thumbs/buggy-whip-sandstone-yield-sign.jpg.webp"
   },
   {
    "n": "buggy-whip-stop-sign-intersection.jpg",
