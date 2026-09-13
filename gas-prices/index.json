@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-13T05:26:13Z",
+ "generated": "2026-09-13T05:42:06Z",
  "folder": "gas-prices",
  "thumb_dir": ".thumbs",
  "thumb_width": 480,
@@ -16,14 +16,14 @@
    "e": 0
   },
   {
-   "n": "seven-eleven-regular-gas-price-sign.webp",
-   "s": 428156,
-   "h1": "72b0f0b136212ae349798b0f09437e7e7233aaa0",
-   "d": 1789277143,
+   "n": "seven-eleven-regular-gas-price-sign.jpg",
+   "s": 519273,
+   "h1": "f27c2397a32d01ecd6c2dbee4061f871548061db",
+   "d": 1789278001,
    "w": 4032,
    "ht": 3024,
    "e": 0,
-   "t": ".thumbs/seven-eleven-regular-gas-price-sign.webp.webp"
+   "t": ".thumbs/seven-eleven-regular-gas-price-sign.jpg.webp"
   }
  ]
 }

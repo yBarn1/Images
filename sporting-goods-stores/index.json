@@ -1,69 +1,69 @@
 {
- "generated": "2026-09-13T05:26:18Z",
+ "generated": "2026-09-13T05:42:08Z",
  "folder": "sporting-goods-stores",
  "thumb_dir": ".thumbs",
  "thumb_width": 480,
  "count": 6,
  "items": [
   {
-   "n": "dicks-sporting-goods-interior-banners.webp",
-   "s": 522206,
-   "h1": "beab565ce43d2d47209c970e0d5d13342150136e",
-   "d": 1789277144,
+   "n": "dicks-sporting-goods-interior-banners.jpg",
+   "s": 445374,
+   "h1": "4ca6d8e0d4dd427ab9e1c9819b39673f374a4a9a",
+   "d": 1789278071,
    "w": 2016,
    "ht": 1512,
    "e": 0,
-   "t": ".thumbs/dicks-sporting-goods-interior-banners.webp.webp"
+   "t": ".thumbs/dicks-sporting-goods-interior-banners.jpg.webp"
   },
   {
-   "n": "dicks-store-entrance-longhorns-floor-angle.webp",
-   "s": 412236,
-   "h1": "1a5bc4b926f8f751c0811317e9c7ae6c5c4a13c6",
-   "d": 1789277150,
+   "n": "dicks-store-entrance-longhorns-floor-angle.jpg",
+   "s": 501919,
+   "h1": "e3ebb583a7ca8b59b4ef9893dae4ab081a11b0cb",
+   "d": 1789278073,
    "w": 2048,
    "ht": 1536,
    "e": 0,
-   "t": ".thumbs/dicks-store-entrance-longhorns-floor-angle.webp.webp"
+   "t": ".thumbs/dicks-store-entrance-longhorns-floor-angle.jpg.webp"
   },
   {
-   "n": "dicks-store-entrance-longhorns-floor.webp",
-   "s": 436498,
-   "h1": "27a4eabd660019cd4b435baf7edcc6f31717f297",
-   "d": 1789277149,
+   "n": "dicks-store-entrance-longhorns-floor.jpg",
+   "s": 520181,
+   "h1": "b85ddb251e2059dbfb6d27e1d9db0fd5bbdbab0d",
+   "d": 1789278075,
    "w": 2560,
    "ht": 1920,
    "e": 0,
-   "t": ".thumbs/dicks-store-entrance-longhorns-floor.webp.webp"
+   "t": ".thumbs/dicks-store-entrance-longhorns-floor.jpg.webp"
   },
   {
-   "n": "dicks-texas-longhorns-banner-clothing.webp",
-   "s": 430754,
-   "h1": "33be8f60f641db7e50fbfb1428510c49ca8960f2",
-   "d": 1789277145,
+   "n": "dicks-texas-longhorns-banner-clothing.jpg",
+   "s": 470411,
+   "h1": "2922c659572e0a4ba37342eb0a285a3b9ed173e1",
+   "d": 1789278078,
    "w": 2560,
    "ht": 1920,
    "e": 0,
-   "t": ".thumbs/dicks-texas-longhorns-banner-clothing.webp.webp"
+   "t": ".thumbs/dicks-texas-longhorns-banner-clothing.jpg.webp"
   },
   {
-   "n": "mannequin-texas-shirt-yeti-cooler.webp",
-   "s": 373292,
-   "h1": "d70d4ed4d3b0dc325b85fb2c95a2bb7e7143030a",
-   "d": 1789277151,
+   "n": "mannequin-texas-shirt-yeti-cooler.jpg",
+   "s": 482492,
+   "h1": "f5f2652d60a0957f337460b083dcb8402e11406c",
+   "d": 1789278080,
    "w": 2560,
    "ht": 1920,
    "e": 0,
-   "t": ".thumbs/mannequin-texas-shirt-yeti-cooler.webp.webp"
+   "t": ".thumbs/mannequin-texas-shirt-yeti-cooler.jpg.webp"
   },
   {
-   "n": "texas-dicks-backdrop-mural.webp",
-   "s": 509356,
-   "h1": "db831418f8804b0d98ec7975ba0b033c30966c07",
-   "d": 1789277147,
+   "n": "texas-dicks-backdrop-mural.jpg",
+   "s": 483250,
+   "h1": "1be66d312c25d0f18fd71f825cab44301acd7210",
+   "d": 1789278082,
    "w": 2048,
    "ht": 1536,
    "e": 0,
-   "t": ".thumbs/texas-dicks-backdrop-mural.webp.webp"
+   "t": ".thumbs/texas-dicks-backdrop-mural.jpg.webp"
   }
  ]
 }

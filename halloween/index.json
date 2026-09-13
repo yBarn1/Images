@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-13T05:26:14Z",
+ "generated": "2026-09-13T05:42:06Z",
  "folder": "halloween",
  "thumb_dir": ".thumbs",
  "thumb_width": 480,
@@ -26,34 +26,34 @@
    "e": 0
   },
   {
-   "n": "nightmare-before-christmas-figurines-angle.webp",
-   "s": 499388,
-   "h1": "4a676bb758d40b9315c6549432827244cb5945d9",
-   "d": 1789277138,
-   "w": 4032,
-   "ht": 3024,
-   "e": 0,
-   "t": ".thumbs/nightmare-before-christmas-figurines-angle.webp.webp"
-  },
-  {
-   "n": "nightmare-before-christmas-figurines-shelf.webp",
-   "s": 384494,
-   "h1": "01f2ab7620a3a005c1bea75b635af17246a8c029",
-   "d": 1789277137,
+   "n": "nightmare-before-christmas-figurines-angle.jpg",
+   "s": 523751,
+   "h1": "726b45cb00229be6231e32785888a2d07dbeee3c",
+   "d": 1789278009,
    "w": 2560,
    "ht": 1920,
    "e": 0,
-   "t": ".thumbs/nightmare-before-christmas-figurines-shelf.webp.webp"
+   "t": ".thumbs/nightmare-before-christmas-figurines-angle.jpg.webp"
   },
   {
-   "n": "pumpkin-buckets-cowboy-hats.webp",
-   "s": 520886,
-   "h1": "42877d76f6b3cee1e4b2314af2d94dac8ede62eb",
-   "d": 1789277139,
-   "w": 4032,
-   "ht": 3024,
+   "n": "nightmare-before-christmas-figurines-shelf.jpg",
+   "s": 443166,
+   "h1": "47e76d61f3b2378864b3e29422e1355bc585c6d0",
+   "d": 1789278018,
+   "w": 2560,
+   "ht": 1920,
    "e": 0,
-   "t": ".thumbs/pumpkin-buckets-cowboy-hats.webp.webp"
+   "t": ".thumbs/nightmare-before-christmas-figurines-shelf.jpg.webp"
+  },
+  {
+   "n": "pumpkin-buckets-cowboy-hats.jpg",
+   "s": 496034,
+   "h1": "a6191633a0d95cc878123f00e89e84300cd8a4c3",
+   "d": 1789278026,
+   "w": 2560,
+   "ht": 1920,
+   "e": 0,
+   "t": ".thumbs/pumpkin-buckets-cowboy-hats.jpg.webp"
   },
   {
    "n": "reeses-peanut-butter-pumpkin-wrapped-candy.jpg",

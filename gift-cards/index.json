@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-13T05:26:13Z",
+ "generated": "2026-09-13T05:42:06Z",
  "folder": "gift-cards",
  "thumb_dir": ".thumbs",
  "thumb_width": 480,
@@ -32,8 +32,8 @@
    "d": 1789277159,
    "w": 1925,
    "ht": 1444,
-   "e": 0,
-   "t": ".thumbs/retail-gift-card-wall-display.jpg.webp"
+   "t": ".thumbs/retail-gift-card-wall-display.jpg.webp",
+   "e": 0
   }
  ]
 }

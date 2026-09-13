@@ -1,39 +1,39 @@
 {
- "generated": "2026-09-13T05:26:21Z",
+ "generated": "2026-09-13T05:42:10Z",
  "folder": "toys",
  "thumb_dir": ".thumbs",
  "thumb_width": 480,
  "count": 3,
  "items": [
   {
-   "n": "minecraft-duck-toy-closeup.webp",
-   "s": 261540,
-   "h1": "f3f96d98b41c4851f2288920deca8aea02bb5309",
-   "d": 1789277120,
+   "n": "minecraft-duck-toy-closeup.jpg",
+   "s": 366352,
+   "h1": "9d6020b53ce8442154880cf8411b3c6c1f83e2f6",
+   "d": 1789278108,
    "w": 4032,
    "ht": 3024,
    "e": 0,
-   "t": ".thumbs/minecraft-duck-toy-closeup.webp.webp"
+   "t": ".thumbs/minecraft-duck-toy-closeup.jpg.webp"
   },
   {
-   "n": "minecraft-duck-toy-on-table.webp",
-   "s": 341562,
-   "h1": "f53ce39d0b44c3fadf5ef7d7e974051ea119f157",
-   "d": 1789277122,
+   "n": "minecraft-duck-toy-on-table.jpg",
+   "s": 421205,
+   "h1": "b1527ea148d9d4b30e3b7edf24adb77675a51f1b",
+   "d": 1789278110,
    "w": 4032,
    "ht": 3024,
    "e": 0,
-   "t": ".thumbs/minecraft-duck-toy-on-table.webp.webp"
+   "t": ".thumbs/minecraft-duck-toy-on-table.jpg.webp"
   },
   {
-   "n": "minecraft-duck-toy-side-view.webp",
-   "s": 356520,
-   "h1": "e22b9a4a2ec016bc2eb386ed53b88f0bb7ef0553",
-   "d": 1789277123,
+   "n": "minecraft-duck-toy-side-view.jpg",
+   "s": 426042,
+   "h1": "80e7ee67af2db3aacff0d1607b80a25a4fa0540a",
+   "d": 1789278112,
    "w": 4032,
    "ht": 3024,
    "e": 0,
-   "t": ".thumbs/minecraft-duck-toy-side-view.webp.webp"
+   "t": ".thumbs/minecraft-duck-toy-side-view.jpg.webp"
   }
  ]
 }

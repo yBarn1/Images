@@ -1,59 +1,59 @@
 {
- "generated": "2026-09-13T05:26:16Z",
+ "generated": "2026-09-13T05:42:07Z",
  "folder": "produce",
  "thumb_dir": ".thumbs",
  "thumb_width": 480,
  "count": 5,
  "items": [
   {
-   "n": "green-apples-produce-bin.webp",
-   "s": 488600,
-   "h1": "ccf520f36a18efa8b39884205f9f976bcbc28c15",
-   "d": 1789277133,
+   "n": "green-apples-produce-bin.jpg",
+   "s": 477378,
+   "h1": "dc73e07076763f6ebd28fa7d60749114037c85ef",
+   "d": 1789278053,
    "w": 4032,
    "ht": 3024,
    "e": 0,
-   "t": ".thumbs/green-apples-produce-bin.webp.webp"
+   "t": ".thumbs/green-apples-produce-bin.jpg.webp"
   },
   {
-   "n": "red-apples-produce-bin.webp",
-   "s": 481424,
-   "h1": "c0850ed5e02c4893038eeb30109c71ec41d3aa57",
-   "d": 1789277135,
+   "n": "red-apples-produce-bin.jpg",
+   "s": 492547,
+   "h1": "ef8640f0e378f61e6496575dd4933defcf215cc9",
+   "d": 1789278056,
    "w": 2560,
    "ht": 1920,
    "e": 0,
-   "t": ".thumbs/red-apples-produce-bin.webp.webp"
+   "t": ".thumbs/red-apples-produce-bin.jpg.webp"
   },
   {
-   "n": "watermelon-closeup-top-view.webp",
-   "s": 412550,
-   "h1": "4e66e32947040237e0b38aa7c9cb441818f9b28d",
-   "d": 1789277131,
+   "n": "watermelon-closeup-top-view.jpg",
+   "s": 433194,
+   "h1": "7e89927c78fcad53eb49f16cf0efa5c8a6ae905d",
+   "d": 1789278058,
    "w": 2560,
    "ht": 1920,
    "e": 0,
-   "t": ".thumbs/watermelon-closeup-top-view.webp.webp"
+   "t": ".thumbs/watermelon-closeup-top-view.jpg.webp"
   },
   {
-   "n": "watermelon-pile-produce-bin.webp",
-   "s": 393248,
-   "h1": "79d91c46ff81dcfd6aaab4cbf72a4a8de33fffe9",
-   "d": 1789277130,
+   "n": "watermelon-pile-produce-bin.jpg",
+   "s": 431427,
+   "h1": "03f1988a82fb489b8142859ade5cd2eb8ca7f29f",
+   "d": 1789278061,
    "w": 2560,
    "ht": 1920,
    "e": 0,
-   "t": ".thumbs/watermelon-pile-produce-bin.webp.webp"
+   "t": ".thumbs/watermelon-pile-produce-bin.jpg.webp"
   },
   {
-   "n": "yellow-bell-peppers-produce-bin.webp",
-   "s": 460544,
-   "h1": "ab30bc332d4ec0ff35b81aad8b5d909db2bc57b9",
-   "d": 1789277134,
+   "n": "yellow-bell-peppers-produce-bin.jpg",
+   "s": 495666,
+   "h1": "cc12066d12b38b92b1ad7a88104237e7b560d6cf",
+   "d": 1789278063,
    "w": 4032,
    "ht": 3024,
    "e": 0,
-   "t": ".thumbs/yellow-bell-peppers-produce-bin.webp.webp"
+   "t": ".thumbs/yellow-bell-peppers-produce-bin.jpg.webp"
   }
  ]
 }

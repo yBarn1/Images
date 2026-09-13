@@ -1,39 +1,39 @@
 {
- "generated": "2026-09-13T05:26:15Z",
+ "generated": "2026-09-13T05:42:06Z",
  "folder": "neighborhood-streets",
  "thumb_dir": ".thumbs",
  "thumb_width": 480,
  "count": 3,
  "items": [
   {
-   "n": "residential-street-intersection-trees.webp",
-   "s": 466070,
-   "h1": "3f11ffed3628e4ec1110f233cdf452c390f5ebab",
-   "d": 1789277154,
+   "n": "residential-street-intersection-trees.jpg",
+   "s": 523017,
+   "h1": "50409313328ff2f2b90d2b0766fae2526e80bd71",
+   "d": 1789278036,
    "w": 1600,
    "ht": 1200,
    "e": 0,
-   "t": ".thumbs/residential-street-intersection-trees.webp.webp"
+   "t": ".thumbs/residential-street-intersection-trees.jpg.webp"
   },
   {
-   "n": "roundabout-cloudy-sky-view.webp",
-   "s": 390814,
-   "h1": "9c6c509206b1aa82b68949f3e1baab4ed96265a1",
-   "d": 1789277112,
+   "n": "roundabout-cloudy-sky-view.jpg",
+   "s": 515555,
+   "h1": "4b2ba1440008ac5da9c664b0ccf9558650ce3256",
+   "d": 1789278045,
    "w": 4032,
    "ht": 3024,
    "e": 0,
-   "t": ".thumbs/roundabout-cloudy-sky-view.webp.webp"
+   "t": ".thumbs/roundabout-cloudy-sky-view.jpg.webp"
   },
   {
-   "n": "tree-lined-sidewalk-neighborhood.webp",
-   "s": 427126,
-   "h1": "10f46af2c8b4f56e072cff7b465d03505b2743b0",
-   "d": 1789277115,
+   "n": "tree-lined-sidewalk-neighborhood.jpg",
+   "s": 443316,
+   "h1": "be1ca17572cf3b4a1a7ced10d5a881afd5824b40",
+   "d": 1789278051,
    "w": 1280,
    "ht": 960,
    "e": 0,
-   "t": ".thumbs/tree-lined-sidewalk-neighborhood.webp.webp"
+   "t": ".thumbs/tree-lined-sidewalk-neighborhood.jpg.webp"
   }
  ]
 }
