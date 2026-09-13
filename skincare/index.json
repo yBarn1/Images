@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-13T05:42:08Z",
+ "generated": "2026-09-13T14:29:16Z",
  "folder": "skincare",
  "thumb_dir": ".thumbs",
  "thumb_width": 480,
@@ -12,8 +12,8 @@
    "d": 1789278065,
    "w": 4032,
    "ht": 3024,
-   "e": 0,
-   "t": ".thumbs/cell-fusion-c-sunscreen-stick-box.jpg.webp"
+   "t": ".thumbs/cell-fusion-c-sunscreen-stick-box.jpg.webp",
+   "e": 0
   },
   {
    "n": "green-bioforce-cream-tube-box-angle.jpg",
@@ -22,8 +22,8 @@
    "d": 1789278067,
    "w": 3024,
    "ht": 4032,
-   "e": 0,
-   "t": ".thumbs/green-bioforce-cream-tube-box-angle.jpg.webp"
+   "t": ".thumbs/green-bioforce-cream-tube-box-angle.jpg.webp",
+   "e": 0
   },
   {
    "n": "green-bioforce-cream-tube-box.jpg",
@@ -32,8 +32,8 @@
    "d": 1789278069,
    "w": 4032,
    "ht": 3024,
-   "e": 0,
-   "t": ".thumbs/green-bioforce-cream-tube-box.jpg.webp"
+   "t": ".thumbs/green-bioforce-cream-tube-box.jpg.webp",
+   "e": 0
   }
  ]
 }

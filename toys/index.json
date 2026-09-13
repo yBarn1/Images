@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-13T05:42:10Z",
+ "generated": "2026-09-13T14:29:17Z",
  "folder": "toys",
  "thumb_dir": ".thumbs",
  "thumb_width": 480,
@@ -12,8 +12,8 @@
    "d": 1789278108,
    "w": 4032,
    "ht": 3024,
-   "e": 0,
-   "t": ".thumbs/minecraft-duck-toy-closeup.jpg.webp"
+   "t": ".thumbs/minecraft-duck-toy-closeup.jpg.webp",
+   "e": 0
   },
   {
    "n": "minecraft-duck-toy-on-table.jpg",
@@ -22,8 +22,8 @@
    "d": 1789278110,
    "w": 4032,
    "ht": 3024,
-   "e": 0,
-   "t": ".thumbs/minecraft-duck-toy-on-table.jpg.webp"
+   "t": ".thumbs/minecraft-duck-toy-on-table.jpg.webp",
+   "e": 0
   },
   {
    "n": "minecraft-duck-toy-side-view.jpg",
@@ -32,8 +32,8 @@
    "d": 1789278112,
    "w": 4032,
    "ht": 3024,
-   "e": 0,
-   "t": ".thumbs/minecraft-duck-toy-side-view.jpg.webp"
+   "t": ".thumbs/minecraft-duck-toy-side-view.jpg.webp",
+   "e": 0
   }
  ]
 }

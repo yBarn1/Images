@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-13T05:42:09Z",
+ "generated": "2026-09-13T14:29:17Z",
  "folder": "store-signage",
  "thumb_dir": ".thumbs",
  "thumb_width": 480,
@@ -12,8 +12,8 @@
    "d": 1789278086,
    "w": 4032,
    "ht": 3024,
-   "e": 0,
-   "t": ".thumbs/brisket-queso-store-sign-duplicate.jpg.webp"
+   "t": ".thumbs/brisket-queso-store-sign-duplicate.jpg.webp",
+   "e": 0
   },
   {
    "n": "brisket-queso-store-sign.jpg",
@@ -22,8 +22,8 @@
    "d": 1789278088,
    "w": 4032,
    "ht": 3024,
-   "e": 0,
-   "t": ".thumbs/brisket-queso-store-sign.jpg.webp"
+   "t": ".thumbs/brisket-queso-store-sign.jpg.webp",
+   "e": 0
   },
   {
    "n": "dairy-section-neon-sign.jpg",
@@ -32,8 +32,8 @@
    "d": 1789278090,
    "w": 2560,
    "ht": 1920,
-   "e": 0,
-   "t": ".thumbs/dairy-section-neon-sign.jpg.webp"
+   "t": ".thumbs/dairy-section-neon-sign.jpg.webp",
+   "e": 0
   }
  ]
 }

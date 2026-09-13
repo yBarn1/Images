@@ -1,0 +1,59 @@
+{
+ "generated": "2026-09-13T14:29:16Z",
+ "folder": "breweries",
+ "thumb_dir": ".thumbs",
+ "thumb_width": 480,
+ "count": 5,
+ "items": [
+  {
+   "n": "austin-beerworks-interior-pendant-lights.jpg",
+   "s": 464937,
+   "h1": "0cb7e73d0c86d3a031cfce336535774365011180",
+   "d": 1789309734,
+   "w": 2560,
+   "ht": 1920,
+   "e": 0,
+   "t": ".thumbs/austin-beerworks-interior-pendant-lights.jpg.webp"
+  },
+  {
+   "n": "austin-beerworks-night-sign-truck.jpg",
+   "s": 495907,
+   "h1": "6e6a93414988b06bb39795822e1b0a2deaaac621",
+   "d": 1789309739,
+   "w": 5712,
+   "ht": 4284,
+   "e": 0,
+   "t": ".thumbs/austin-beerworks-night-sign-truck.jpg.webp"
+  },
+  {
+   "n": "austin-beerworks-patio-trees-daytime.jpg",
+   "s": 520579,
+   "h1": "e84405ac6b1e507f5f1060d96d22e2c627058658",
+   "d": 1789309732,
+   "w": 1600,
+   "ht": 1200,
+   "e": 0,
+   "t": ".thumbs/austin-beerworks-patio-trees-daytime.jpg.webp"
+  },
+  {
+   "n": "austin-beerworks-pendant-light-closeup.jpg",
+   "s": 463702,
+   "h1": "008638812549ae674348dd0bb3ecad42e8fc7ebc",
+   "d": 1789309735,
+   "w": 2560,
+   "ht": 1920,
+   "e": 0,
+   "t": ".thumbs/austin-beerworks-pendant-light-closeup.jpg.webp"
+  },
+  {
+   "n": "austin-beerworks-sign-daytime.jpg",
+   "s": 475971,
+   "h1": "9f45dc58cebf32a9e500342186f24bea9661bf0b",
+   "d": 1789309733,
+   "w": 2560,
+   "ht": 1920,
+   "e": 0,
+   "t": ".thumbs/austin-beerworks-sign-daytime.jpg.webp"
+  }
+ ]
+}

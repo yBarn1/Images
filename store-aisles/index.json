@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-13T05:42:08Z",
+ "generated": "2026-09-13T14:29:17Z",
  "folder": "store-aisles",
  "thumb_dir": ".thumbs",
  "thumb_width": 480,
@@ -12,8 +12,8 @@
    "d": 1789278084,
    "w": 2560,
    "ht": 1920,
-   "e": 0,
-   "t": ".thumbs/grocery-store-aisle-coupon-signage.jpg.webp"
+   "t": ".thumbs/grocery-store-aisle-coupon-signage.jpg.webp",
+   "e": 0
   }
  ]
 }

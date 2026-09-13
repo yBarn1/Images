@@ -1,10 +1,20 @@
 {
- "generated": "2026-09-13T05:42:10Z",
+ "generated": "2026-09-13T14:29:17Z",
  "folder": "supplements",
  "thumb_dir": ".thumbs",
  "thumb_width": 480,
- "count": 1,
+ "count": 2,
  "items": [
+  {
+   "n": "cepacol-extra-strength-lozenges-box.jpg",
+   "s": 497730,
+   "h1": "9d69dcc1d8d415240368b4d320b287886f81773c",
+   "d": 1789309743,
+   "w": 4032,
+   "ht": 3024,
+   "e": 0,
+   "t": ".thumbs/cepacol-extra-strength-lozenges-box.jpg.webp"
+  },
   {
    "n": "vitamin-c-zinc-supplement-box-bottles.jpg",
    "s": 502412,
@@ -12,8 +22,8 @@
    "d": 1789278106,
    "w": 4032,
    "ht": 3024,
-   "e": 0,
-   "t": ".thumbs/vitamin-c-zinc-supplement-box-bottles.jpg.webp"
+   "t": ".thumbs/vitamin-c-zinc-supplement-box-bottles.jpg.webp",
+   "e": 0
   }
  ]
 }
