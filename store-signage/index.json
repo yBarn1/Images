@@ -1,20 +1,10 @@
 {
- "generated": "2026-09-13T14:29:17Z",
+ "generated": "2026-09-13T18:29:38Z",
  "folder": "store-signage",
  "thumb_dir": ".thumbs",
  "thumb_width": 480,
- "count": 3,
+ "count": 2,
  "items": [
-  {
-   "n": "brisket-queso-store-sign-duplicate.jpg",
-   "s": 508679,
-   "h1": "b47b733249df382e10ebc06049722151666405fd",
-   "d": 1789278086,
-   "w": 4032,
-   "ht": 3024,
-   "t": ".thumbs/brisket-queso-store-sign-duplicate.jpg.webp",
-   "e": 0
-  },
   {
    "n": "brisket-queso-store-sign.jpg",
    "s": 508679,

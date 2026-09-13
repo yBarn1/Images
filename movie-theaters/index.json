@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-13T14:29:16Z",
+ "generated": "2026-09-13T18:29:38Z",
  "folder": "movie-theaters",
  "thumb_dir": ".thumbs",
  "thumb_width": 480,
@@ -12,8 +12,8 @@
    "d": 1789309731,
    "w": 5712,
    "ht": 4284,
-   "e": 0,
-   "t": ".thumbs/actor-drinking-soda-commercial-theater-screen.jpg.webp"
+   "t": ".thumbs/actor-drinking-soda-commercial-theater-screen.jpg.webp",
+   "e": 0
   },
   {
    "n": "sunset-coastal-landscape-on-theater-screen.jpg",
@@ -22,8 +22,8 @@
    "d": 1789309730,
    "w": 5712,
    "ht": 4284,
-   "e": 0,
-   "t": ".thumbs/sunset-coastal-landscape-on-theater-screen.jpg.webp"
+   "t": ".thumbs/sunset-coastal-landscape-on-theater-screen.jpg.webp",
+   "e": 0
   }
  ]
 }
