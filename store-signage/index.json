@@ -1,0 +1,39 @@
+{
+ "generated": "2026-09-13T05:26:19Z",
+ "folder": "store-signage",
+ "thumb_dir": ".thumbs",
+ "thumb_width": 480,
+ "count": 3,
+ "items": [
+  {
+   "n": "brisket-queso-store-sign-duplicate.webp",
+   "s": 470488,
+   "h1": "391ef8c5a208113fa1aa3b3546943eb0d2bef479",
+   "d": 1789277124,
+   "w": 4032,
+   "ht": 3024,
+   "e": 0,
+   "t": ".thumbs/brisket-queso-store-sign-duplicate.webp.webp"
+  },
+  {
+   "n": "brisket-queso-store-sign.webp",
+   "s": 470488,
+   "h1": "391ef8c5a208113fa1aa3b3546943eb0d2bef479",
+   "d": 1789277118,
+   "w": 4032,
+   "ht": 3024,
+   "e": 0,
+   "t": ".thumbs/brisket-queso-store-sign.webp.webp"
+  },
+  {
+   "n": "dairy-section-neon-sign.webp",
+   "s": 516896,
+   "h1": "87db7db4e3fb25ebea2be1cdf841ca84503cd6d9",
+   "d": 1789277136,
+   "w": 2560,
+   "ht": 1920,
+   "e": 0,
+   "t": ".thumbs/dairy-section-neon-sign.webp.webp"
+  }
+ ]
+}

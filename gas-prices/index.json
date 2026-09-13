@@ -1,9 +1,9 @@
 {
- "generated": "2026-09-12T22:55:38Z",
+ "generated": "2026-09-13T05:26:13Z",
  "folder": "gas-prices",
  "thumb_dir": ".thumbs",
  "thumb_width": 480,
- "count": 1,
+ "count": 2,
  "items": [
   {
    "n": "majik-mart-regular-gas-price-sign.jpg",
@@ -14,6 +14,16 @@
    "ht": 1500,
    "t": ".thumbs/majik-mart-regular-gas-price-sign.jpg.webp",
    "e": 0
+  },
+  {
+   "n": "seven-eleven-regular-gas-price-sign.webp",
+   "s": 428156,
+   "h1": "72b0f0b136212ae349798b0f09437e7e7233aaa0",
+   "d": 1789277143,
+   "w": 4032,
+   "ht": 3024,
+   "e": 0,
+   "t": ".thumbs/seven-eleven-regular-gas-price-sign.webp.webp"
   }
  ]
 }

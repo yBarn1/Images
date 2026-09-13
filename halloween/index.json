@@ -1,9 +1,9 @@
 {
- "generated": "2026-09-12T22:55:39Z",
+ "generated": "2026-09-13T05:26:14Z",
  "folder": "halloween",
  "thumb_dir": ".thumbs",
  "thumb_width": 480,
- "count": 4,
+ "count": 7,
  "items": [
   {
    "n": "jack-o-lantern-buckets-store-shelf.jpg",
@@ -26,14 +26,44 @@
    "e": 0
   },
   {
+   "n": "nightmare-before-christmas-figurines-angle.webp",
+   "s": 499388,
+   "h1": "4a676bb758d40b9315c6549432827244cb5945d9",
+   "d": 1789277138,
+   "w": 4032,
+   "ht": 3024,
+   "e": 0,
+   "t": ".thumbs/nightmare-before-christmas-figurines-angle.webp.webp"
+  },
+  {
+   "n": "nightmare-before-christmas-figurines-shelf.webp",
+   "s": 384494,
+   "h1": "01f2ab7620a3a005c1bea75b635af17246a8c029",
+   "d": 1789277137,
+   "w": 2560,
+   "ht": 1920,
+   "e": 0,
+   "t": ".thumbs/nightmare-before-christmas-figurines-shelf.webp.webp"
+  },
+  {
+   "n": "pumpkin-buckets-cowboy-hats.webp",
+   "s": 520886,
+   "h1": "42877d76f6b3cee1e4b2314af2d94dac8ede62eb",
+   "d": 1789277139,
+   "w": 4032,
+   "ht": 3024,
+   "e": 0,
+   "t": ".thumbs/pumpkin-buckets-cowboy-hats.webp.webp"
+  },
+  {
    "n": "reeses-peanut-butter-pumpkin-wrapped-candy.jpg",
    "s": 471611,
    "h1": "6321e21d3933658b7ae9e873e84c136a9b694a53",
    "d": 1789253727,
    "w": 2560,
    "ht": 1920,
-   "e": 0,
-   "t": ".thumbs/reeses-peanut-butter-pumpkin-wrapped-candy.jpg.webp"
+   "t": ".thumbs/reeses-peanut-butter-pumpkin-wrapped-candy.jpg.webp",
+   "e": 0
   },
   {
    "n": "reeses-peanut-butter-pumpkins-candy.jpg",

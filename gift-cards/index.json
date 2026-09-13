@@ -1,9 +1,9 @@
 {
- "generated": "2026-09-12T22:55:38Z",
+ "generated": "2026-09-13T05:26:13Z",
  "folder": "gift-cards",
  "thumb_dir": ".thumbs",
  "thumb_width": 480,
- "count": 2,
+ "count": 3,
  "items": [
   {
    "n": "cvs-gift-card-aisle-endcap.jpg",
@@ -24,6 +24,16 @@
    "ht": 1500,
    "t": ".thumbs/retail-gift-card-display-rack.jpg.webp",
    "e": 0
+  },
+  {
+   "n": "retail-gift-card-wall-display.jpg",
+   "s": 436402,
+   "h1": "0db003d852ea0bf04dd322621809820ca6a65ef5",
+   "d": 1789277159,
+   "w": 1925,
+   "ht": 1444,
+   "e": 0,
+   "t": ".thumbs/retail-gift-card-wall-display.jpg.webp"
   }
  ]
 }

@@ -1,0 +1,39 @@
+{
+ "generated": "2026-09-13T05:26:13Z",
+ "folder": "flowers",
+ "thumb_dir": ".thumbs",
+ "thumb_width": 480,
+ "count": 3,
+ "items": [
+  {
+   "n": "orange-dahlias-flower-basket.webp",
+   "s": 464728,
+   "h1": "b2e694f7cde1bb41bb04a0478abcbba0f159fda9",
+   "d": 1789277128,
+   "w": 2560,
+   "ht": 1920,
+   "e": 0,
+   "t": ".thumbs/orange-dahlias-flower-basket.webp.webp"
+  },
+  {
+   "n": "orange-yellow-mums-flowers.webp",
+   "s": 410230,
+   "h1": "3fe1ab03cf38f177a2dcf846148caf54e8333c60",
+   "d": 1789277127,
+   "w": 2560,
+   "ht": 1920,
+   "e": 0,
+   "t": ".thumbs/orange-yellow-mums-flowers.webp.webp"
+  },
+  {
+   "n": "yellow-daisies-flower-bouquet.webp",
+   "s": 502318,
+   "h1": "64b68957286c33e5afe036bbeadbe6a71e1cebd0",
+   "d": 1789277129,
+   "w": 2560,
+   "ht": 1920,
+   "e": 0,
+   "t": ".thumbs/yellow-daisies-flower-bouquet.webp.webp"
+  }
+ ]
+}
