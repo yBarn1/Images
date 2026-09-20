@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-13T18:34:54Z",
+ "generated": "2026-09-20T19:24:45Z",
  "folder": "street-signs",
  "thumb_dir": ".thumbs",
  "thumb_width": 480,
@@ -12,68 +12,68 @@
    "d": 1789324481,
    "w": 2560,
    "ht": 1920,
-   "e": 0,
-   "t": ".thumbs/buggy-whip-sandstone-yield-sign.jpg.webp"
+   "t": ".thumbs/buggy-whip-sandstone-yield-sign.jpg.webp",
+   "e": 0
   },
   {
    "n": "buggy-whip-stop-sign-intersection.jpg",
-   "s": 474476,
-   "h1": "321b6c977c945319858b5f4a265f15be93657849",
-   "d": 1789278094,
-   "w": 4032,
-   "ht": 3024,
-   "t": ".thumbs/buggy-whip-stop-sign-intersection.jpg.webp",
-   "e": 0
+   "s": 510618,
+   "h1": "65e7dd584292e3a58b9e3b705c55bf1a2139e7d0",
+   "d": 1789932270,
+   "w": 2560,
+   "ht": 1920,
+   "e": 0,
+   "t": ".thumbs/buggy-whip-stop-sign-intersection.jpg.webp"
   },
   {
    "n": "lane-direction-arrows-sign.jpg",
-   "s": 514619,
-   "h1": "22008158e1d3b3eca4e9a67397ff73af37c2aa23",
-   "d": 1789278096,
-   "w": 4032,
-   "ht": 3024,
-   "t": ".thumbs/lane-direction-arrows-sign.jpg.webp",
-   "e": 0
+   "s": 517376,
+   "h1": "d81c5b3b14f6532709cf69783d142234c1ad860d",
+   "d": 1789932270,
+   "w": 2560,
+   "ht": 1920,
+   "e": 0,
+   "t": ".thumbs/lane-direction-arrows-sign.jpg.webp"
   },
   {
    "n": "neighborhood-speed-limit-25-sign.jpg",
-   "s": 461299,
-   "h1": "bdedb63aed4f4ab6710117225689c3e1796f67a9",
-   "d": 1789278098,
+   "s": 522671,
+   "h1": "1c7d1e1dc554bd6e9a4447dc667e6e39b0f3d249",
+   "d": 1789932270,
    "w": 2560,
    "ht": 1920,
-   "t": ".thumbs/neighborhood-speed-limit-25-sign.jpg.webp",
-   "e": 0
+   "e": 0,
+   "t": ".thumbs/neighborhood-speed-limit-25-sign.jpg.webp"
   },
   {
    "n": "roundabout-warning-sign-street.jpg",
-   "s": 469088,
-   "h1": "dbf3b49cfe2a7c7255514314c30311f18e5c1f27",
-   "d": 1789278100,
+   "s": 522243,
+   "h1": "226695165fcb4c1be5884f3841b04dee98046b6e",
+   "d": 1789932270,
    "w": 2016,
    "ht": 1512,
-   "t": ".thumbs/roundabout-warning-sign-street.jpg.webp",
-   "e": 0
+   "e": 0,
+   "t": ".thumbs/roundabout-warning-sign-street.jpg.webp"
   },
   {
    "n": "speed-limit-25-sign-residential-street.jpg",
-   "s": 467251,
-   "h1": "7e1a0eeacdae763b03fd9588741bf8853379c490",
-   "d": 1789278102,
+   "s": 522167,
+   "h1": "edc0c461fb13120a25ee68a7c01d61526339a303",
+   "d": 1789932270,
    "w": 2048,
    "ht": 1536,
-   "t": ".thumbs/speed-limit-25-sign-residential-street.jpg.webp",
-   "e": 0
+   "e": 0,
+   "t": ".thumbs/speed-limit-25-sign-residential-street.jpg.webp"
   },
   {
    "n": "speed-limit-25-sign-tree-lined-street.jpg",
-   "s": 519901,
-   "h1": "1c983a6e39ed09ea3472580714736e05fe35cb10",
-   "d": 1789278104,
+   "s": 522503,
+   "h1": "1e7bac7ca3245a0e0cd2d5910f0aa35748207984",
+   "d": 1789932270,
    "w": 2016,
    "ht": 1512,
-   "t": ".thumbs/speed-limit-25-sign-tree-lined-street.jpg.webp",
-   "e": 0
+   "e": 0,
+   "t": ".thumbs/speed-limit-25-sign-tree-lined-street.jpg.webp"
   }
  ]
 }
