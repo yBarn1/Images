@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-22T14:55:52Z",
+ "generated": "2026-09-28T17:29:15Z",
  "folder": "street-signs",
  "thumb_dir": ".thumbs",
  "thumb_width": 480,
@@ -32,8 +32,8 @@
    "d": 1790088933,
    "w": 2560,
    "ht": 1920,
-   "e": 0,
-   "t": ".thumbs/lane-direction-arrows-sign.jpg.webp"
+   "t": ".thumbs/lane-direction-arrows-sign.jpg.webp",
+   "e": 0
   },
   {
    "n": "neighborhood-speed-limit-25-sign.jpg",

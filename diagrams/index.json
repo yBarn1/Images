@@ -1,9 +1,9 @@
 {
- "generated": "2026-09-22T14:55:51Z",
+ "generated": "2026-09-28T17:29:15Z",
  "folder": "diagrams",
  "thumb_dir": ".thumbs",
  "thumb_width": 480,
- "count": 1,
+ "count": 2,
  "items": [
   {
    "n": "bayes-theorem-formula.png",
@@ -14,6 +14,16 @@
    "ht": 633,
    "t": ".thumbs/bayes-theorem-formula.png.webp",
    "e": 0
+  },
+  {
+   "n": "prefect-orchestrator.png",
+   "s": 48406,
+   "h1": "c2edbeb186a0d538e12467c62cc2710b97d63c79",
+   "d": 1790616536,
+   "w": 400,
+   "ht": 300,
+   "e": 0,
+   "t": ".thumbs/prefect-orchestrator.png.webp"
   }
  ]
 }
