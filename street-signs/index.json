@@ -1,9 +1,9 @@
 {
- "generated": "2026-09-28T17:29:15Z",
+ "generated": "2026-09-30T20:51:08Z",
  "folder": "street-signs",
  "thumb_dir": ".thumbs",
  "thumb_width": 480,
- "count": 7,
+ "count": 8,
  "items": [
   {
    "n": "buggy-whip-sandstone-yield-sign.jpg",
@@ -24,6 +24,16 @@
    "ht": 1920,
    "t": ".thumbs/buggy-whip-stop-sign-intersection.jpg.webp",
    "e": 0
+  },
+  {
+   "n": "harper-park-sign-crosswalk-street.jpg",
+   "s": 520749,
+   "h1": "e7174876b343ac83e9b4c6d30943db7033a97f6e",
+   "d": 1790801416,
+   "w": 2560,
+   "ht": 1920,
+   "e": 0,
+   "t": ".thumbs/harper-park-sign-crosswalk-street.jpg.webp"
   },
   {
    "n": "lane-direction-arrows-sign.jpg",

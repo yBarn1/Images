@@ -1,0 +1,29 @@
+{
+ "generated": "2026-09-30T20:51:06Z",
+ "folder": "ice-rinks",
+ "thumb_dir": ".thumbs",
+ "thumb_width": 480,
+ "count": 2,
+ "items": [
+  {
+   "n": "empty-ice-rink-wide-view.jpg",
+   "s": 465165,
+   "h1": "c7b7c8898815bfb1d18d8e7d65b5ce7dc8f96350",
+   "d": 1790801398,
+   "w": 2560,
+   "ht": 1920,
+   "e": 0,
+   "t": ".thumbs/empty-ice-rink-wide-view.jpg.webp"
+  },
+  {
+   "n": "youth-hockey-game-players-rink.jpg",
+   "s": 469978,
+   "h1": "c11c9934b77fc29cd301aa1c3b989ff311bf1e28",
+   "d": 1790801403,
+   "w": 2560,
+   "ht": 1920,
+   "e": 0,
+   "t": ".thumbs/youth-hockey-game-players-rink.jpg.webp"
+  }
+ ]
+}

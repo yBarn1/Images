@@ -1,0 +1,59 @@
+{
+ "generated": "2026-09-30T20:51:07Z",
+ "folder": "skies",
+ "thumb_dir": ".thumbs",
+ "thumb_width": 480,
+ "count": 5,
+ "items": [
+  {
+   "n": "blue-sky-clouds-over-school.jpg",
+   "s": 471185,
+   "h1": "cb16b945341abfc3485b01e693bf976668802a3c",
+   "d": 1790801413,
+   "w": 2560,
+   "ht": 1920,
+   "e": 0,
+   "t": ".thumbs/blue-sky-clouds-over-school.jpg.webp"
+  },
+  {
+   "n": "cloudy-sky-over-park-field.jpg",
+   "s": 468965,
+   "h1": "2fa36698287aa2b78ba5e1aefe06d5be5fa8d9ec",
+   "d": 1790801406,
+   "w": 4032,
+   "ht": 3024,
+   "e": 0,
+   "t": ".thumbs/cloudy-sky-over-park-field.jpg.webp"
+  },
+  {
+   "n": "dramatic-clouds-sunbeams-over-trees.jpg",
+   "s": 422487,
+   "h1": "00cf5c3f6f986a75d4dc96b29909df834e9cf5e0",
+   "d": 1790801404,
+   "w": 2560,
+   "ht": 1920,
+   "e": 0,
+   "t": ".thumbs/dramatic-clouds-sunbeams-over-trees.jpg.webp"
+  },
+  {
+   "n": "sunbeams-clouds-soccer-goal-field.jpg",
+   "s": 433603,
+   "h1": "e3000a15bbce52bed213d2a760388ebccb801e8d",
+   "d": 1790801411,
+   "w": 2560,
+   "ht": 1920,
+   "e": 0,
+   "t": ".thumbs/sunbeams-clouds-soccer-goal-field.jpg.webp"
+  },
+  {
+   "n": "sunset-clouds-over-soccer-field.jpg",
+   "s": 473238,
+   "h1": "95e894f853d4ad4de11742092874aac967a9397d",
+   "d": 1790801409,
+   "w": 2560,
+   "ht": 1920,
+   "e": 0,
+   "t": ".thumbs/sunset-clouds-over-soccer-field.jpg.webp"
+  }
+ ]
+}

@@ -1,9 +1,9 @@
 {
- "generated": "2026-09-28T17:29:15Z",
+ "generated": "2026-09-30T20:51:06Z",
  "folder": "neighborhood-streets",
  "thumb_dir": ".thumbs",
  "thumb_width": 480,
- "count": 3,
+ "count": 4,
  "items": [
   {
    "n": "residential-street-intersection-trees.jpg",
@@ -14,6 +14,16 @@
    "ht": 1200,
    "t": ".thumbs/residential-street-intersection-trees.jpg.webp",
    "e": 0
+  },
+  {
+   "n": "residential-street-moonlit-sky.jpg",
+   "s": 504470,
+   "h1": "19b81b917da643b43b344dac2b6556dea3bb6751",
+   "d": 1790801393,
+   "w": 2560,
+   "ht": 1920,
+   "e": 0,
+   "t": ".thumbs/residential-street-moonlit-sky.jpg.webp"
   },
   {
    "n": "roundabout-cloudy-sky-view.jpg",

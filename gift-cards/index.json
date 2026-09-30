@@ -1,9 +1,9 @@
 {
- "generated": "2026-09-28T17:29:15Z",
+ "generated": "2026-09-30T20:51:06Z",
  "folder": "gift-cards",
  "thumb_dir": ".thumbs",
  "thumb_width": 480,
- "count": 3,
+ "count": 4,
  "items": [
   {
    "n": "cvs-gift-card-aisle-endcap.jpg",
@@ -14,6 +14,16 @@
    "ht": 1125,
    "t": ".thumbs/cvs-gift-card-aisle-endcap.jpg.webp",
    "e": 0
+  },
+  {
+   "n": "gaming-entertainment-gift-card-display.jpg",
+   "s": 495824,
+   "h1": "49a075310ca187cd90dd00770211738b6debe4de",
+   "d": 1790801419,
+   "w": 2560,
+   "ht": 1920,
+   "e": 0,
+   "t": ".thumbs/gaming-entertainment-gift-card-display.jpg.webp"
   },
   {
    "n": "retail-gift-card-display-rack.jpg",

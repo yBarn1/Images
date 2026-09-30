@@ -1,9 +1,9 @@
 {
- "generated": "2026-09-28T17:29:15Z",
+ "generated": "2026-09-30T20:51:08Z",
  "folder": "sports-bars",
  "thumb_dir": ".thumbs",
  "thumb_width": 480,
- "count": 4,
+ "count": 6,
  "items": [
   {
    "n": "pond-hockey-club-hallway-exit-sign.jpg",
@@ -44,6 +44,26 @@
    "ht": 1536,
    "t": ".thumbs/pond-hockey-club-tip-calculator-clock-sign.jpg.webp",
    "e": 0
+  },
+  {
+   "n": "pond-hockey-club-window-sign-stone-wall.jpg",
+   "s": 494732,
+   "h1": "5b748e1f24d2c1709f1d1ed589ef25c6dd311b3f",
+   "d": 1790801395,
+   "w": 2560,
+   "ht": 1920,
+   "e": 0,
+   "t": ".thumbs/pond-hockey-club-window-sign-stone-wall.jpg.webp"
+  },
+  {
+   "n": "pond-marquee-letters-wall.jpg",
+   "s": 514671,
+   "h1": "c8d476f98afd1ad02ed58a809652f1748dd1cf29",
+   "d": 1790801400,
+   "w": 2560,
+   "ht": 1920,
+   "e": 0,
+   "t": ".thumbs/pond-marquee-letters-wall.jpg.webp"
   }
  ]
 }

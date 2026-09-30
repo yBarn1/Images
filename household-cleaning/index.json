@@ -1,10 +1,20 @@
 {
- "generated": "2026-09-28T17:29:15Z",
+ "generated": "2026-09-30T20:51:06Z",
  "folder": "household-cleaning",
  "thumb_dir": ".thumbs",
  "thumb_width": 480,
- "count": 1,
+ "count": 2,
  "items": [
+  {
+   "n": "magic-sponge-erasers-cellomopex-package.jpg",
+   "s": 489604,
+   "h1": "9420c8befc4dda91660b329e6017265b4cdaae7b",
+   "d": 1790801389,
+   "w": 2560,
+   "ht": 1920,
+   "e": 0,
+   "t": ".thumbs/magic-sponge-erasers-cellomopex-package.jpg.webp"
+  },
   {
    "n": "mr-clean-magic-eraser-box-sponges.jpg",
    "s": 510475,
