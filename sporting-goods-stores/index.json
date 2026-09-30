@@ -1,9 +1,9 @@
 {
- "generated": "2026-09-30T20:51:08Z",
+ "generated": "2026-09-30T21:09:06Z",
  "folder": "sporting-goods-stores",
  "thumb_dir": ".thumbs",
  "thumb_width": 480,
- "count": 6,
+ "count": 11,
  "items": [
   {
    "n": "dicks-sporting-goods-interior-banners.jpg",
@@ -46,6 +46,26 @@
    "e": 0
   },
   {
+   "n": "hockey-stick-blades-price-tags.jpg",
+   "s": 501026,
+   "h1": "274e739fe521f7f0765908d515294dd732bb6d76",
+   "d": 1790802252,
+   "w": 2560,
+   "ht": 1920,
+   "e": 0,
+   "t": ".thumbs/hockey-stick-blades-price-tags.jpg.webp"
+  },
+  {
+   "n": "hockey-sticks-display-wall-closeup.jpg",
+   "s": 479310,
+   "h1": "7df5c7edfd14e051ea75a308d62d609e92c639c6",
+   "d": 1790802250,
+   "w": 2048,
+   "ht": 1536,
+   "e": 0,
+   "t": ".thumbs/hockey-sticks-display-wall-closeup.jpg.webp"
+  },
+  {
    "n": "mannequin-texas-shirt-yeti-cooler.jpg",
    "s": 482492,
    "h1": "f5f2652d60a0957f337460b083dcb8402e11406c",
@@ -54,6 +74,36 @@
    "ht": 1920,
    "t": ".thumbs/mannequin-texas-shirt-yeti-cooler.jpg.webp",
    "e": 0
+  },
+  {
+   "n": "monkey-sports-store-door-hours-sign.jpg",
+   "s": 430177,
+   "h1": "31ecf1e86322d85d18e762c4b1848b612c23c42d",
+   "d": 1790802281,
+   "w": 2560,
+   "ht": 1920,
+   "e": 0,
+   "t": ".thumbs/monkey-sports-store-door-hours-sign.jpg.webp"
+  },
+  {
+   "n": "monkey-sports-store-entrance-now-open.jpg",
+   "s": 425144,
+   "h1": "8e6c8722342f2ed440075db445da9b5cff842010",
+   "d": 1790802279,
+   "w": 2560,
+   "ht": 1920,
+   "e": 0,
+   "t": ".thumbs/monkey-sports-store-entrance-now-open.jpg.webp"
+  },
+  {
+   "n": "now-open-banner-storefront-doors.jpg",
+   "s": 489632,
+   "h1": "707ddfc02c4c2e2956df76937a6945b4d6e546d8",
+   "d": 1790802284,
+   "w": 2560,
+   "ht": 1920,
+   "e": 0,
+   "t": ".thumbs/now-open-banner-storefront-doors.jpg.webp"
   },
   {
    "n": "texas-dicks-backdrop-mural.jpg",

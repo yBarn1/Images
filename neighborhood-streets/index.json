@@ -1,9 +1,9 @@
 {
- "generated": "2026-09-30T20:51:06Z",
+ "generated": "2026-09-30T21:09:05Z",
  "folder": "neighborhood-streets",
  "thumb_dir": ".thumbs",
  "thumb_width": 480,
- "count": 4,
+ "count": 5,
  "items": [
   {
    "n": "residential-street-intersection-trees.jpg",
@@ -22,8 +22,8 @@
    "d": 1790801393,
    "w": 2560,
    "ht": 1920,
-   "e": 0,
-   "t": ".thumbs/residential-street-moonlit-sky.jpg.webp"
+   "t": ".thumbs/residential-street-moonlit-sky.jpg.webp",
+   "e": 0
   },
   {
    "n": "roundabout-cloudy-sky-view.jpg",
@@ -34,6 +34,16 @@
    "ht": 3024,
    "t": ".thumbs/roundabout-cloudy-sky-view.jpg.webp",
    "e": 0
+  },
+  {
+   "n": "sunny-residential-street-with-clouds.jpg",
+   "s": 472185,
+   "h1": "2b47c70ce361a5579efb775d7414048f575677f3",
+   "d": 1790802237,
+   "w": 2560,
+   "ht": 1920,
+   "e": 0,
+   "t": ".thumbs/sunny-residential-street-with-clouds.jpg.webp"
   },
   {
    "n": "tree-lined-sidewalk-neighborhood.jpg",

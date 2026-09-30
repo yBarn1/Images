@@ -1,9 +1,9 @@
 {
- "generated": "2026-09-30T20:51:07Z",
+ "generated": "2026-09-30T21:09:05Z",
  "folder": "skies",
  "thumb_dir": ".thumbs",
  "thumb_width": 480,
- "count": 5,
+ "count": 7,
  "items": [
   {
    "n": "blue-sky-clouds-over-school.jpg",
@@ -12,8 +12,8 @@
    "d": 1790801413,
    "w": 2560,
    "ht": 1920,
-   "e": 0,
-   "t": ".thumbs/blue-sky-clouds-over-school.jpg.webp"
+   "t": ".thumbs/blue-sky-clouds-over-school.jpg.webp",
+   "e": 0
   },
   {
    "n": "cloudy-sky-over-park-field.jpg",
@@ -22,8 +22,8 @@
    "d": 1790801406,
    "w": 4032,
    "ht": 3024,
-   "e": 0,
-   "t": ".thumbs/cloudy-sky-over-park-field.jpg.webp"
+   "t": ".thumbs/cloudy-sky-over-park-field.jpg.webp",
+   "e": 0
   },
   {
    "n": "dramatic-clouds-sunbeams-over-trees.jpg",
@@ -32,8 +32,28 @@
    "d": 1790801404,
    "w": 2560,
    "ht": 1920,
+   "t": ".thumbs/dramatic-clouds-sunbeams-over-trees.jpg.webp",
+   "e": 0
+  },
+  {
+   "n": "dramatic-cumulus-clouds-over-fence.jpg",
+   "s": 493593,
+   "h1": "19ff771f70e0c34ef400585f12d16dfc928f9d9a",
+   "d": 1790802230,
+   "w": 4032,
+   "ht": 3024,
    "e": 0,
-   "t": ".thumbs/dramatic-clouds-sunbeams-over-trees.jpg.webp"
+   "t": ".thumbs/dramatic-cumulus-clouds-over-fence.jpg.webp"
+  },
+  {
+   "n": "puffy-clouds-over-tree-lined-street.jpg",
+   "s": 460974,
+   "h1": "f41d1b7bef723dc347fab8b029be5ae9442bc5d0",
+   "d": 1790802233,
+   "w": 2560,
+   "ht": 1920,
+   "e": 0,
+   "t": ".thumbs/puffy-clouds-over-tree-lined-street.jpg.webp"
   },
   {
    "n": "sunbeams-clouds-soccer-goal-field.jpg",
@@ -42,8 +62,8 @@
    "d": 1790801411,
    "w": 2560,
    "ht": 1920,
-   "e": 0,
-   "t": ".thumbs/sunbeams-clouds-soccer-goal-field.jpg.webp"
+   "t": ".thumbs/sunbeams-clouds-soccer-goal-field.jpg.webp",
+   "e": 0
   },
   {
    "n": "sunset-clouds-over-soccer-field.jpg",
@@ -52,8 +72,8 @@
    "d": 1790801409,
    "w": 2560,
    "ht": 1920,
-   "e": 0,
-   "t": ".thumbs/sunset-clouds-over-soccer-field.jpg.webp"
+   "t": ".thumbs/sunset-clouds-over-soccer-field.jpg.webp",
+   "e": 0
   }
  ]
 }

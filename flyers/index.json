@@ -1,9 +1,9 @@
 {
- "generated": "2026-09-30T20:51:05Z",
+ "generated": "2026-09-30T21:09:04Z",
  "folder": "flyers",
  "thumb_dir": ".thumbs",
  "thumb_width": 480,
- "count": 1,
+ "count": 2,
  "items": [
   {
    "n": "cvs-vaccination-service-brochures.jpg",
@@ -14,6 +14,16 @@
    "ht": 1500,
    "t": ".thumbs/cvs-vaccination-service-brochures.jpg.webp",
    "e": 0
+  },
+  {
+   "n": "texas-stars-schedule-promotions-card.jpg",
+   "s": 518615,
+   "h1": "3a1945a712bf168c27d0d2d2169bd9ee2d6cb552",
+   "d": 1790802267,
+   "w": 2560,
+   "ht": 1920,
+   "e": 0,
+   "t": ".thumbs/texas-stars-schedule-promotions-card.jpg.webp"
   }
  ]
 }

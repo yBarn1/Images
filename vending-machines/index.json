@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-30T20:51:08Z",
+ "generated": "2026-09-30T21:09:06Z",
  "folder": "vending-machines",
  "thumb_dir": ".thumbs",
  "thumb_width": 480,
@@ -12,8 +12,8 @@
    "d": 1790801423,
    "w": 2560,
    "ht": 1920,
-   "e": 0,
-   "t": ".thumbs/premium-alkaline-water-vending-machines.jpg.webp"
+   "t": ".thumbs/premium-alkaline-water-vending-machines.jpg.webp",
+   "e": 0
   }
  ]
 }

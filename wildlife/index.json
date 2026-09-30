@@ -1,0 +1,49 @@
+{
+ "generated": "2026-09-30T21:09:06Z",
+ "folder": "wildlife",
+ "thumb_dir": ".thumbs",
+ "thumb_width": 480,
+ "count": 4,
+ "items": [
+  {
+   "n": "green-anole-lizard-climbing-leaf.jpg",
+   "s": 485519,
+   "h1": "234080c81e459ec8c11710892283fdabd2eb0f49",
+   "d": 1790802247,
+   "w": 2560,
+   "ht": 1920,
+   "e": 0,
+   "t": ".thumbs/green-anole-lizard-climbing-leaf.jpg.webp"
+  },
+  {
+   "n": "green-anole-lizard-on-fig-leaf.jpg",
+   "s": 446934,
+   "h1": "f1af8a8147975383d6d2eb0884f12476fec0ba87",
+   "d": 1790802243,
+   "w": 2560,
+   "ht": 1920,
+   "e": 0,
+   "t": ".thumbs/green-anole-lizard-on-fig-leaf.jpg.webp"
+  },
+  {
+   "n": "squirrel-lying-on-porch-step.jpg",
+   "s": 507139,
+   "h1": "6fadc400c042d7d3ad04cb77e7b5a7575b45ea08",
+   "d": 1790802228,
+   "w": 2560,
+   "ht": 1920,
+   "e": 0,
+   "t": ".thumbs/squirrel-lying-on-porch-step.jpg.webp"
+  },
+  {
+   "n": "squirrel-resting-near-potted-plant.jpg",
+   "s": 502857,
+   "h1": "8a3ca1f1a199e0535610c9e7f88dd3419232f0f6",
+   "d": 1790802287,
+   "w": 4032,
+   "ht": 3024,
+   "e": 0,
+   "t": ".thumbs/squirrel-resting-near-potted-plant.jpg.webp"
+  }
+ ]
+}

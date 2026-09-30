@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-30T20:51:06Z",
+ "generated": "2026-09-30T21:09:05Z",
  "folder": "night-sky",
  "thumb_dir": ".thumbs",
  "thumb_width": 480,
@@ -12,8 +12,8 @@
    "d": 1790801391,
    "w": 4032,
    "ht": 3024,
-   "e": 0,
-   "t": ".thumbs/full-moon-through-tree-silhouette.jpg.webp"
+   "t": ".thumbs/full-moon-through-tree-silhouette.jpg.webp",
+   "e": 0
   }
  ]
 }

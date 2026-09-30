@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-30T20:51:08Z",
+ "generated": "2026-09-30T21:09:06Z",
  "folder": "sports-bars",
  "thumb_dir": ".thumbs",
  "thumb_width": 480,
@@ -52,8 +52,8 @@
    "d": 1790801395,
    "w": 2560,
    "ht": 1920,
-   "e": 0,
-   "t": ".thumbs/pond-hockey-club-window-sign-stone-wall.jpg.webp"
+   "t": ".thumbs/pond-hockey-club-window-sign-stone-wall.jpg.webp",
+   "e": 0
   },
   {
    "n": "pond-marquee-letters-wall.jpg",
@@ -62,8 +62,8 @@
    "d": 1790801400,
    "w": 2560,
    "ht": 1920,
-   "e": 0,
-   "t": ".thumbs/pond-marquee-letters-wall.jpg.webp"
+   "t": ".thumbs/pond-marquee-letters-wall.jpg.webp",
+   "e": 0
   }
  ]
 }

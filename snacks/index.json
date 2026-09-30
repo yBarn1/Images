@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-30T20:51:08Z",
+ "generated": "2026-09-30T21:09:05Z",
  "folder": "snacks",
  "thumb_dir": ".thumbs",
  "thumb_width": 480,
@@ -12,8 +12,8 @@
    "d": 1790801421,
    "w": 2560,
    "ht": 1920,
-   "e": 0,
-   "t": ".thumbs/cheese-cracker-apricot-jam-snack.jpg.webp"
+   "t": ".thumbs/cheese-cracker-apricot-jam-snack.jpg.webp",
+   "e": 0
   },
   {
    "n": "powdered-donut-holes-package-heb-bakery.jpg",
@@ -22,8 +22,8 @@
    "d": 1790801386,
    "w": 2560,
    "ht": 1920,
-   "e": 0,
-   "t": ".thumbs/powdered-donut-holes-package-heb-bakery.jpg.webp"
+   "t": ".thumbs/powdered-donut-holes-package-heb-bakery.jpg.webp",
+   "e": 0
   }
  ]
 }

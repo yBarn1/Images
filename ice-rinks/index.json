@@ -1,9 +1,9 @@
 {
- "generated": "2026-09-30T20:51:06Z",
+ "generated": "2026-09-30T21:09:05Z",
  "folder": "ice-rinks",
  "thumb_dir": ".thumbs",
  "thumb_width": 480,
- "count": 2,
+ "count": 3,
  "items": [
   {
    "n": "empty-ice-rink-wide-view.jpg",
@@ -12,8 +12,18 @@
    "d": 1790801398,
    "w": 2560,
    "ht": 1920,
+   "t": ".thumbs/empty-ice-rink-wide-view.jpg.webp",
+   "e": 0
+  },
+  {
+   "n": "ice-field-facility-entrance-hallway.jpg",
+   "s": 460866,
+   "h1": "45911359f898a5fb8701d8a80fe45b68d9a22d95",
+   "d": 1790802274,
+   "w": 2560,
+   "ht": 1920,
    "e": 0,
-   "t": ".thumbs/empty-ice-rink-wide-view.jpg.webp"
+   "t": ".thumbs/ice-field-facility-entrance-hallway.jpg.webp"
   },
   {
    "n": "youth-hockey-game-players-rink.jpg",
@@ -22,8 +32,8 @@
    "d": 1790801403,
    "w": 2560,
    "ht": 1920,
-   "e": 0,
-   "t": ".thumbs/youth-hockey-game-players-rink.jpg.webp"
+   "t": ".thumbs/youth-hockey-game-players-rink.jpg.webp",
+   "e": 0
   }
  ]
 }

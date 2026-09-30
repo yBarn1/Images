@@ -1,0 +1,79 @@
+{
+ "generated": "2026-09-30T21:09:04Z",
+ "folder": "arcades",
+ "thumb_dir": ".thumbs",
+ "thumb_width": 480,
+ "count": 7,
+ "items": [
+  {
+   "n": "arcade-claw-machines-row-duck-locker.jpg",
+   "s": 493635,
+   "h1": "036a1b767cbde241fa3c2176ace6ca7acd3f2f3c",
+   "d": 1790802255,
+   "w": 2560,
+   "ht": 1920,
+   "e": 0,
+   "t": ".thumbs/arcade-claw-machines-row-duck-locker.jpg.webp"
+  },
+  {
+   "n": "duck-locker-claw-machine-prize-pile.jpg",
+   "s": 435385,
+   "h1": "52ddba6795c7d316e930d2c95f70696020771541",
+   "d": 1790802258,
+   "w": 2560,
+   "ht": 1920,
+   "e": 0,
+   "t": ".thumbs/duck-locker-claw-machine-prize-pile.jpg.webp"
+  },
+  {
+   "n": "duck-locker-machine-interior-ducks.jpg",
+   "s": 508661,
+   "h1": "9cd5f1083f50394530e6f341d2a6c510b060c4b6",
+   "d": 1790802261,
+   "w": 2560,
+   "ht": 1920,
+   "e": 0,
+   "t": ".thumbs/duck-locker-machine-interior-ducks.jpg.webp"
+  },
+  {
+   "n": "duck-locker-machine-lit-sign.jpg",
+   "s": 477981,
+   "h1": "f5c7b93664d2c3017591565ed21e76354a0e3e95",
+   "d": 1790802264,
+   "w": 2560,
+   "ht": 1920,
+   "e": 0,
+   "t": ".thumbs/duck-locker-machine-lit-sign.jpg.webp"
+  },
+  {
+   "n": "halo-fireteam-raven-arcade-screen.jpg",
+   "s": 505414,
+   "h1": "6580e79e4e34f8cf26566d04f716c589c2f4d5a0",
+   "d": 1790802272,
+   "w": 2560,
+   "ht": 1920,
+   "e": 0,
+   "t": ".thumbs/halo-fireteam-raven-arcade-screen.jpg.webp"
+  },
+  {
+   "n": "jurassic-arcade-screen-gameplay.jpg",
+   "s": 507976,
+   "h1": "a6046f6fb63b3b903a682a9d8b928b6e0f4093bc",
+   "d": 1790802270,
+   "w": 2560,
+   "ht": 1920,
+   "e": 0,
+   "t": ".thumbs/jurassic-arcade-screen-gameplay.jpg.webp"
+  },
+  {
+   "n": "super-bikes-3-motorcycle-arcade-machines.jpg",
+   "s": 515725,
+   "h1": "ea3186d45ad45ab3f989935adeb1a171cf8ad8ed",
+   "d": 1790802276,
+   "w": 2560,
+   "ht": 1920,
+   "e": 0,
+   "t": ".thumbs/super-bikes-3-motorcycle-arcade-machines.jpg.webp"
+  }
+ ]
+}
