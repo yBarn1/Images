@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-30T21:09:05Z",
+ "generated": "2026-10-02T23:53:48Z",
  "folder": "neighborhood-streets",
  "thumb_dir": ".thumbs",
  "thumb_width": 480,
@@ -42,8 +42,8 @@
    "d": 1790802237,
    "w": 2560,
    "ht": 1920,
-   "e": 0,
-   "t": ".thumbs/sunny-residential-street-with-clouds.jpg.webp"
+   "t": ".thumbs/sunny-residential-street-with-clouds.jpg.webp",
+   "e": 0
   },
   {
    "n": "tree-lined-sidewalk-neighborhood.jpg",

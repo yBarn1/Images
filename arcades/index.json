@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-30T21:09:04Z",
+ "generated": "2026-10-02T23:53:48Z",
  "folder": "arcades",
  "thumb_dir": ".thumbs",
  "thumb_width": 480,
@@ -12,8 +12,8 @@
    "d": 1790802255,
    "w": 2560,
    "ht": 1920,
-   "e": 0,
-   "t": ".thumbs/arcade-claw-machines-row-duck-locker.jpg.webp"
+   "t": ".thumbs/arcade-claw-machines-row-duck-locker.jpg.webp",
+   "e": 0
   },
   {
    "n": "duck-locker-claw-machine-prize-pile.jpg",
@@ -22,8 +22,8 @@
    "d": 1790802258,
    "w": 2560,
    "ht": 1920,
-   "e": 0,
-   "t": ".thumbs/duck-locker-claw-machine-prize-pile.jpg.webp"
+   "t": ".thumbs/duck-locker-claw-machine-prize-pile.jpg.webp",
+   "e": 0
   },
   {
    "n": "duck-locker-machine-interior-ducks.jpg",
@@ -32,8 +32,8 @@
    "d": 1790802261,
    "w": 2560,
    "ht": 1920,
-   "e": 0,
-   "t": ".thumbs/duck-locker-machine-interior-ducks.jpg.webp"
+   "t": ".thumbs/duck-locker-machine-interior-ducks.jpg.webp",
+   "e": 0
   },
   {
    "n": "duck-locker-machine-lit-sign.jpg",
@@ -42,8 +42,8 @@
    "d": 1790802264,
    "w": 2560,
    "ht": 1920,
-   "e": 0,
-   "t": ".thumbs/duck-locker-machine-lit-sign.jpg.webp"
+   "t": ".thumbs/duck-locker-machine-lit-sign.jpg.webp",
+   "e": 0
   },
   {
    "n": "halo-fireteam-raven-arcade-screen.jpg",
@@ -52,8 +52,8 @@
    "d": 1790802272,
    "w": 2560,
    "ht": 1920,
-   "e": 0,
-   "t": ".thumbs/halo-fireteam-raven-arcade-screen.jpg.webp"
+   "t": ".thumbs/halo-fireteam-raven-arcade-screen.jpg.webp",
+   "e": 0
   },
   {
    "n": "jurassic-arcade-screen-gameplay.jpg",
@@ -62,8 +62,8 @@
    "d": 1790802270,
    "w": 2560,
    "ht": 1920,
-   "e": 0,
-   "t": ".thumbs/jurassic-arcade-screen-gameplay.jpg.webp"
+   "t": ".thumbs/jurassic-arcade-screen-gameplay.jpg.webp",
+   "e": 0
   },
   {
    "n": "super-bikes-3-motorcycle-arcade-machines.jpg",
@@ -72,8 +72,8 @@
    "d": 1790802276,
    "w": 2560,
    "ht": 1920,
-   "e": 0,
-   "t": ".thumbs/super-bikes-3-motorcycle-arcade-machines.jpg.webp"
+   "t": ".thumbs/super-bikes-3-motorcycle-arcade-machines.jpg.webp",
+   "e": 0
   }
  ]
 }
